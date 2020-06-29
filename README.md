@@ -21,3 +21,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 ## License
 
 [ISC](LICENSE) © 2020 Stuart Smith <stu2038@me.com>
+# jhd-squiz
